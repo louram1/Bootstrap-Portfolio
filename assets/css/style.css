@@ -1,0 +1,77 @@
+.Section2
+{
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+  
+}
+
+.Section3
+{
+  width: 100%;
+  max-width: 650px;
+  margin: 0 auto;
+  clear: left;
+  float:left;
+}
+
+#main-box {
+  padding-top: 130px;
+}
+
+.Header1
+{
+
+  	margin: 0 0 0 0;
+  	float: left;	
+  	padding:0px;
+  	border: 1px;
+}
+
+#Img1
+{
+	
+  	/*max-width: 450px; */
+  	margin: 0 auto;
+  	clear: left;
+  	float : left;
+  	height:280px;	
+  	width:100%;
+}
+
+.Para1
+{
+	float: right;
+    max-width: 190px;
+    padding-right: 0px;
+    margin-left: 10px;
+}
+
+.sidebar {
+  float: right;
+  width: 100%;
+  max-width: 270px;
+  padding: 30px;
+  margin-bottom: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+.social {
+  width: 62px;
+  height: 62px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+
+footer {
+  padding: 30px 0;
+  clear: both;
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+}
